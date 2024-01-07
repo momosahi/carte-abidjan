@@ -1,2 +1,9 @@
 geopandas
 streamlit
+matplotlib
+pyyaml
+folium
+mapclassify
+plotly
+dash
+pyproj
