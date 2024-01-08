@@ -26,6 +26,7 @@ fig = px.scatter_mapbox(
 
 fig.update_layout(mapbox_style="open-street-map")
 fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
+fig.update_layout(height=1200, width=1200)
 
 
 app.layout = html.Div(
